@@ -21,8 +21,4 @@ A aplicação simula um sistema de gerenciamento bancário no terminal. O usuár
 - NetBeans IDE
 - Maven (caso aplicável)
 
-## ▶️ Como executar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/guilhermemoreno2711/RoteiroPOOFaculdade.git
